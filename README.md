@@ -2,6 +2,8 @@
 
 Minicurso ministrado na IV SETI.
 
+![python_rocket](python_rocket.png "python on a rocket")
+
 Este minicurso tem os seguintes objetivos em sua ementa, ainda que superficialmente devido a limitação do tempo:
 
 - Criação do ambiente python
