@@ -2,7 +2,9 @@
 
 Minicurso ministrado na IV SETI.
 
-![python_rocket](python_rocket.png "python on a rocket")
+<p align="center">
+  <img style="float: right;" src="python_rocket.png" alt="Python in a rocket"/>
+</p>
 
 Este minicurso tem os seguintes objetivos em sua ementa, ainda que superficialmente devido a limitação do tempo:
 
