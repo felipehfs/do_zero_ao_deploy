@@ -12,7 +12,6 @@ Este minicurso tem os seguintes objetivos em sua ementa, ainda que superficialme
 
 Ainda estão previstos alguns bonus como autenticação, CI(integração contínua), CD(deploy contínuo) e containeração da aplição.
 
----
 
 ## Pré requisitos:
 
@@ -22,7 +21,6 @@ Ainda estão previstos alguns bonus como autenticação, CI(integração contín
 
 - pipenv `pip install --user pipenv`
 
----
 
 ## Sumário
 
