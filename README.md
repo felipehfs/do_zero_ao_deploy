@@ -23,7 +23,7 @@ Ainda estão previstos alguns bonus como autenticação, CI(integração contín
 
 - python 3.4+
 
-- pipenv `pip install --user pipenv`
+- pipenv `pip instal pipenv`
 
 
 ## Sumário
