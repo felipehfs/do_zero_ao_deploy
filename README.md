@@ -1,4 +1,4 @@
-# Do Zero ao deploy com python
+# :rocket: Do Zero ao deploy com python
 
 Minicurso ministrado na IV SETI.
 
@@ -12,7 +12,9 @@ Este minicurso tem os seguintes objetivos em sua ementa, ainda que superficialme
 
 Ainda estão previstos alguns bonus como autenticação, CI(integração contínua), CD(deploy contínuo) e containeração da aplição.
 
-Pré requisitos:
+---
+
+## Pré requisitos:
 
 - git
 
@@ -20,6 +22,9 @@ Pré requisitos:
 
 - pipenv `pip install --user pipenv`
 
+---
+
+## Sumário
 
 [Passo 0: Inicializando um projeto](step0.md)
 
