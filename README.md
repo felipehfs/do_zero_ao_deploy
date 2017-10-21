@@ -28,32 +28,32 @@ Ainda estão previstos alguns bonus como autenticação, CI(integração contín
 
 ## Sumário
 
-[Passo 0: Inicializando um projeto](step0.md)
+[Passo 0: Inicializando um projeto](passo00.md)
 
-[Passo 1: Primeiros passos com python](step1.md)
+[Passo 1: Primeiros passos com python](passo01.md)
 
-[Passo 2: Utilizando o pipenv para instalar dependências](step2.md)
+[Passo 2: Utilizando o pipenv para instalar dependências](passo02.md)
 
-[Passo 3: Desenhando a aplicação](step3.md)
+[Passo 3: Desenhando a aplicação](passo03.md)
 
-[Passo 4: Definindo o modelo](step4.md)
+[Passo 4: Definindo o modelo](passo04.md)
 
-[Passo 5: Desenvolvimento guiado por testes](step5.md)
+[Passo 5: Desenvolvimento guiado por testes](passo05.md)
 
-[Passo 6: Criando uma tarefa](step6.md)
+[Passo 6: Criando uma tarefa](passo06.md)
 
-[Bonus 0: Integração contínua](bonus0.md)
+[Bonus 0: Integração contínua](bonus00.md)
 
-[Passo 7: Listando tarefas](step7.md)
+[Passo 7: Listando tarefas](passo07.md)
 
-[Passo 8: Removendo tarefas](step8.md)
+[Passo 8: Removendo tarefas](passo08.md)
 
-[Passo 9: Detalhando tarefas](step9.md)
+[Passo 9: Detalhando tarefas](passo09.md)
 
-[Passo 10: Entregando tarefas](step10.md)
+[Passo 10: Entregando tarefas](passo10.md)
 
-[Passo 11: Colocando a aplicação no ar](step10.md)
+[Passo 11: Colocando a aplicação no ar](passo11.md)
 
-[Bonus 1: Containerizando sua aplicação](bonus1.md)
+[Bonus 1: Containerizando sua aplicação](bonus01.md)
 
-[Bonus 2: Deploy contínuo](bonus2.md)
+[Bonus 2: Deploy contínuo](bonus02.md)
