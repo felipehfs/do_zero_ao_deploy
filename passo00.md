@@ -47,6 +47,18 @@ pipenv, version 8.2.5
 
 ### Git
 
+Controle de versão livre e de código aberto, construido para lidar com projetos pequenos e grandes de maneira rápida e eficiente.
+
+Chega de ficar fazendo cópias "agora vai", "final", "final final", etc.
+
+A sua instalação pode ser feita através do comando `sudo apt install git`.
+
+Verifique se sua instalação está ok utilizando o comando `git --version`.
+
+```
+$ git --version
+git version 2.14.2
+```
 
 ## Iniciando o projeto
 
@@ -68,6 +80,14 @@ remote: Compressing objects: 100% (4/4), done.
 remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (5/5), done.
 
+```
+
+Aproveite e já configure seu usuário git para este projeto, dentro do diretório recém clonado digite os seguintes comandos.
+
+```bash
+$ git config --local user.email <emailutilizado@github.com>
+
+$ git config --local user.name githubusername
 ```
 
 "Voilá", já temos o projeto iniciado.
