@@ -51,7 +51,7 @@ Controle de versão livre e de código aberto, construido para lidar com projeto
 
 Chega de ficar fazendo cópias "agora vai", "final", "final final", etc.
 
-A sua instalação pode ser feita através do comando `sudo apt install git`.
+A sua instalação pode ser feita através do comando `sudo apt-get install git`.
 
 Verifique se sua instalação está ok utilizando o comando `git --version`.
 
