@@ -10,7 +10,7 @@ Digite em um terminal o seguinte comando `python3 -v` e verique se a saída é s
 É importante que a versão do python seja 3.4+.
 
 ```bash
-$ python3 -V
+$ python3 --version
 Python 3.6.2
 ```
 
@@ -23,7 +23,7 @@ Pip é o gerenciador de pacotes do python. É um cliente de linha de comandos ut
 Digite `pip3 -V` e verifique se a saída está como apresentado abaixo.
 
 ```bash
-$ pip3 -V
+$ pip3 --version
 pip 9.0.1 from /usr/lib/python3.6/site-packages (python 3.6)
 ```
 Certifique que o python do comando pip é acima da versão 3.4.
