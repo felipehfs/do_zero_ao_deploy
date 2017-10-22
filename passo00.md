@@ -36,7 +36,7 @@ Ferramenta recente e moderna, ajuda no gerenciamento de ambientes isolados e na 
 
 Uma vantagem da utilização desta ferramenta é que em ambientes virtuais, não precisamos de permissão de superusuário para instalação de ferramentas e não modificamos as bilbiotecas contidas no sistema.
 
-Esta ferramenta também não vem por padrão no sitema e pode ser instalada através do comando `sudo pip install pipenv`.
+Esta ferramenta também não vem por padrão no sitema e pode ser instalada através do comando `sudo pip3 install pipenv`.
 
 Para checar sua instalação digite o comando `pipenv --version`.
 
