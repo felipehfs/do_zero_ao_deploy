@@ -6,7 +6,7 @@ Antes de inicializar o projeto vamos certificar que todos os pré-requisitos est
 
 ### Python
 
-Digite em um terminal o seguinte comando `python3 -v` e verique se a saída é similar a apresentada abaixo.
+Digite em um terminal o seguinte comando `python3 --version` e verique se a saída é similar a apresentada abaixo.
 É importante que a versão do python seja 3.4+.
 
 ```bash
@@ -20,7 +20,7 @@ Versões mais atuais do ubuntu já vem com o python 3 instalado, e inclusive, a 
 
 Pip é o gerenciador de pacotes do python. É um cliente de linha de comandos utilizado para controle das depêndencias do projeto.
 
-Digite `pip3 -V` e verifique se a saída está como apresentado abaixo.
+Digite `pip3 --version` e verifique se a saída está como apresentado abaixo.
 
 ```bash
 $ pip3 --version
