@@ -1,8 +1,8 @@
 # Inicializando um projeto
 
-Antes de inicializar o projeto vamos certificar que todos os pré requisitos estão instalados na máquina.
+Antes de inicializar o projeto vamos certificar que todos os pré-requisitos estão instalados na máquina.
 
-## Pre requisitos
+## Pré-requisitos
 
 ### Python
 
